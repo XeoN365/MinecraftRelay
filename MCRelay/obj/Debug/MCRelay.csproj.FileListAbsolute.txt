@@ -1,0 +1,10 @@
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\bin\Debug\MCRelay.exe.config
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\bin\Debug\MCRelay.exe
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\bin\Debug\MCRelay.pdb
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.Form1.resources
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.Properties.Resources.resources
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.csproj.GenerateResource.cache
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.csproj.CoreCompileInputs.cache
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.exe
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\obj\Debug\MCRelay.pdb
+C:\Users\xee3o\source\repos\MCRelay\MCRelay\bin\Debug\index.js
