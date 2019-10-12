@@ -73,7 +73,6 @@
             this.txt_ip.Name = "txt_ip";
             this.txt_ip.Size = new System.Drawing.Size(156, 20);
             this.txt_ip.TabIndex = 3;
-            this.txt_ip.Text = "164.132.122.180";
             // 
             // label1
             // 
@@ -99,7 +98,6 @@
             this.txt_port.Name = "txt_port";
             this.txt_port.Size = new System.Drawing.Size(156, 20);
             this.txt_port.TabIndex = 5;
-            this.txt_port.Text = "2048";
             // 
             // label3
             // 
@@ -116,7 +114,6 @@
             this.txt_username.Name = "txt_username";
             this.txt_username.Size = new System.Drawing.Size(156, 20);
             this.txt_username.TabIndex = 7;
-            this.txt_username.Text = "PizdaBot";
             // 
             // btn_connect
             // 
